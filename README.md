@@ -1,2 +1,2 @@
 # Tic-TacToe
-A classical GTK library based Tic Tac Toe game.
+A classical game recreated with C with the help GTK library.
